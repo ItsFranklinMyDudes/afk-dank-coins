@@ -1,7 +1,7 @@
 [dankafk]
 bindedkey={F6}
 repeat=4294967296
-e=3000 D
+e=10000 D
 e={/ down}
 e=50 D
 e={/ up}
